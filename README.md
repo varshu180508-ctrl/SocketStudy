@@ -114,4 +114,4 @@ client_socket.close()
 <img width="925" height="488" alt="cn 1" src="https://github.com/user-attachments/assets/e6ea14e4-8a9c-4311-b26c-59774e327383" />
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.

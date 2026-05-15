@@ -133,7 +133,11 @@ print("Server says:", data)
 client_socket.close()
 
 ##OUTPUT:
-<img width="925" height="488" alt="cn 1" src="https://github.com/user-attachments/assets/e6ea14e4-8a9c-4311-b26c-59774e327383" />
+
+<img width="1920" height="1200" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/4e5e62a4-acb5-4cd1-bccd-5218f9d6f091" />
+
+<img width="1920" height="1200" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/aee23297-d932-4d3c-b9cf-b05db990c16a" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully.
